@@ -2,10 +2,20 @@
   "events": [
     {
       "id": 1,
-      "title": "Introduction to Scientific Visualization",
-      "content": "Hands-on training covering best practices for visualizing scientific and geospatial data using modern tools.",
+       "title": "Introduction to Climate Data & NetCDF Format",
+  "subtitle": "TETHYS Summer School 2025 – Climate, Energy & Sustainability (University of Cyprus)",
+  "duration_hours": 6,
 
-      "duration_hours": 6,
+  "content": [
+        {
+          "id": 1,
+          "description": "Overview of climate data sources and typical workflows used in climate and energy research."
+        },
+        {
+          "id": 2,
+          "description": "Introduction to the NetCDF data format, conventions, and best practices for handling multidimensional datasets."
+        }
+      ],
 
       "pre_requisites": [
         {
@@ -69,8 +79,8 @@
         }
       ],
 
-      "certificate": true,
-      "price_eur": "N/A",
+      "certificate": false,
+      "price_eur": false,
 
       "target_audience": [
         "Researchers",
