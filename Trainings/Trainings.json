@@ -4,17 +4,94 @@
       "id": 1,
       "title": "Introduction to Scientific Visualization",
       "content": "Hands-on training covering best practices for visualizing scientific and geospatial data using modern tools.",
+
       "duration_hours": 6,
-      "price_eur": 250,
-      "target_audience": ["Researchers", "PhD Students", "Data Scientists"],
+
+      "pre_requisites": [
+        {
+          "id": 1,
+          "description": "Basic familiarity with scientific data formats (NetCDF, CSV)."
+        },
+        {
+          "id": 2,
+          "description": "Elementary Python knowledge (variables, loops, functions)."
+        }
+      ],
+
+      "objectives": [
+        {
+          "id": 1,
+          "description": "Understand the principles of effective scientific visualization."
+        },
+        {
+          "id": 2,
+          "description": "Create meaningful visual representations of multidimensional datasets."
+        },
+        {
+          "id": 3,
+          "description": "Apply visualization techniques to climate and geospatial data."
+        }
+      ],
+
+      "timetable": [
+        {
+          "session": 1,
+          "title": "Introduction & Visualization Principles",
+          "start_time": "09:00",
+          "end_time": "10:30",
+          "topics": [
+            "Why visualization matters",
+            "Perception and color theory",
+            "Common pitfalls"
+          ]
+        },
+        {
+          "session": 2,
+          "title": "Hands-on: Visualizing Scientific Data",
+          "start_time": "10:45",
+          "end_time": "12:30",
+          "topics": [
+            "Visualizing NetCDF data",
+            "Using xarray for data exploration",
+            "2D and 3D plotting examples"
+          ]
+        },
+        {
+          "session": 3,
+          "title": "Advanced Techniques & Wrap-up",
+          "start_time": "13:30",
+          "end_time": "15:00",
+          "topics": [
+            "Interactive visualization",
+            "Best practices for publication",
+            "Discussion and Q&A"
+          ]
+        }
+      ],
+
+      "certificate": true,
+      "price_eur": "N/A",
+
+      "target_audience": [
+        "Researchers",
+        "PhD Students",
+        "Data Scientists"
+      ],
+
       "level": "Beginner",
+      "status": "preparation",
       "format": "In presence",
       "language": "English",
-      "start_date": "2026-03-12",
-      "location": "Univeersity of Cyprus, Nicosia",
+      "start_date": "2025-08-02",
+      "location": "University of Cyprus, Nicosia",
       "max_participants": 30,
       "instructor": "Marco Miani",
-      "tags": ["visualization", "data", "science"]
+
+      "tags": [
+        "visualization",
+        "netcdf",
+        "xarray"
+      ]
     }
   ]
 }
