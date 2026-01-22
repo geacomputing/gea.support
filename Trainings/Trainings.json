@@ -5,7 +5,6 @@
       "title": "Introduction to Climate Data & NetCDF Format",
       "subtitle": "TETHYS Summer School 2025 – Climate, Energy & Sustainability (University of Cyprus)",
       "duration_hours": 6,
-
       "content": [
         {
           "id": 1,
@@ -16,7 +15,6 @@
           "description": "Introduction to the NetCDF data format, conventions, and best practices for handling multidimensional datasets."
         }
       ],
-
       "pre_requisites": [
         {
           "id": 1,
@@ -27,7 +25,6 @@
           "description": "Elementary Python knowledge (variables, loops, functions)."
         }
       ],
-
       "objectives": [
         {
           "id": 1,
@@ -42,7 +39,6 @@
           "description": "Apply visualization techniques to climate and geospatial data."
         }
       ],
-
       "timetable": [
         {
           "session": 1,
@@ -82,17 +78,33 @@
         {
           "id": 1,
           "description": "Please bring your laptop with Python and necessary packages installed."
+        },
+        {
+          "id": 2,
+          "description": "Ensure you have access to Wi-Fi for the hands-on sessions."
+        }
+      ],
+      "links": [
+        {
+          "url": "https://github.com/geacomputing/UCY2Sept",
+          "name": "Course material",
+          "label": "Slides & datasets",
+          "icon": "github"
+        },
+        {
+          "url": "https://www.linkedin.com/company/tethyscy/?originalSubdomain=cy",
+          "name": "LinkedIn page",
+          "label": "More infos",
+          "icon": "linkedin"
         }
       ],
       "certificate": false,
       "price_eur": false,
-
       "target_audience": [
         "Researchers",
         "PhD Students",
         "Data Scientists"
       ],
-
       "level": "Beginner",
       "status": "completed",
       "format": "In presence",
@@ -101,25 +113,10 @@
       "location": "University of Cyprus, Nicosia",
       "max_participants": 30,
       "instructor": "Marco Miani",
-
       "tags": [
         "visualization",
         "netcdf",
         "xarray"
-      ], 
-      "links": [
-        {
-          "url": "https://github.com/geacomputing/UCY2Sept",
-          "name": "Course material",
-          "label": "Slides & datasets", 
-          "icon": "github"
-        },
-        {
-          "url": "https://www.linkedin.com/company/tethyscy/?originalSubdomain=cy",
-          "name": "Linkedin page",
-          "label": "More infos", 
-          "icon":"linkedin"
-        }
       ]
     }
   ]
