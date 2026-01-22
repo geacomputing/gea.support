@@ -81,14 +81,16 @@
 
       "links": [
         {
-          "url": "https://example.com/course-material",
+          "url": "https://github.com/geacomputing/UCY2Sept",
           "name": "Course material",
-          "label": "Slides & datasets"
+          "label": "Slides & datasets", 
+          "icon": "github"
         },
         {
-          "url": "https://example.com/registration",
-          "name": "Registration page",
-          "label": "Register here"
+          "url": "https://www.linkedin.com/company/tethyscy/?originalSubdomain=cy",
+          "name": "Linkedin page",
+          "label": "More info's", 
+          "icon":"linkedin"
         }
       ],
 
