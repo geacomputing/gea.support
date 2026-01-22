@@ -78,12 +78,11 @@
         {
           "session": 1,
           "title": "Laptop requirement",
-          "topics": [
-            "Please bring your laptop with Python and necessary packages installed.",
-            "Ensure you have Wi-Fi access for hands-on exercises."
-          ]
+          "topics": 
+            "Please bring your laptop with Python and necessary packages installed and ensure you have Wi-Fi access for hands-on exercises."
+          
         }, 
-                {
+        {
           "session": 2,
           "title": "Copernicus Account",
           "topics": "Please make sure you have a valid copernicus account (CDS and copernicus marine!)"
