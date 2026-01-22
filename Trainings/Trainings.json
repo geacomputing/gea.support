@@ -76,28 +76,40 @@
       ],
       "important_remarks": [
         {
-          "id": 1,
-          "description": "Please bring your laptop with Python and necessary packages installed."
-        },
-        {
-          "id": 2,
-          "description": "Ensure you have access to Wi-Fi for the hands-on sessions."
+          "session": 1,
+          "title": "Laptop requirement",
+          "start_time": null,
+          "end_time": null,
+          "topics": [
+            "Please bring your laptop with Python and necessary packages installed.",
+            "Ensure you have Wi-Fi access for hands-on exercises."
+          ]
         }
       ],
-      "links": [
-        {
-          "url": "https://github.com/geacomputing/UCY2Sept",
-          "name": "Course material",
-          "label": "Slides & datasets",
-          "icon": "github"
-        },
-        {
-          "url": "https://www.linkedin.com/company/tethyscy/?originalSubdomain=cy",
-          "name": "LinkedIn page",
-          "label": "More infos",
-          "icon": "linkedin"
-        }
-      ],
+          "links": [
+            {
+              "session": 1,
+              "title": "Course material",
+              "start_time": null,
+              "end_time": null,
+              "topics": [
+                "Slides & datasets",
+                "https://github.com/geacomputing/UCY2Sept"
+              ],
+              "icon": "github"
+            },
+            {
+              "session": 2,
+              "title": "LinkedIn page",
+              "start_time": null,
+              "end_time": null,
+              "topics": [
+                "More infos",
+                "https://www.linkedin.com/company/tethyscy/?originalSubdomain=cy"
+              ],
+              "icon": "linkedin"
+            }
+          ],
       "certificate": false,
       "price_eur": false,
       "target_audience": [
