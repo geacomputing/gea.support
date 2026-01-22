@@ -88,23 +88,13 @@
             {
               "session": 1,
               "title": "Course material",
-              "start_time": null,
-              "end_time": null,
-              "topics": [
-                "Slides & datasets",
-                "https://github.com/geacomputing/UCY2Sept"
-              ],
+              "url":"https://github.com/geacomputing/UCY2Sept",
               "icon": "github"
             },
             {
               "session": 2,
               "title": "LinkedIn page",
-              "start_time": null,
-              "end_time": null,
-              "topics": [
-                "More infos",
-                "https://www.linkedin.com/company/tethyscy/?originalSubdomain=cy"
-              ],
+              "url": "https://www.linkedin.com/company/tethyscy/?originalSubdomain=cy",
               "icon": "linkedin"
             }
           ],
