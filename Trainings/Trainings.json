@@ -78,8 +78,6 @@
         {
           "session": 1,
           "title": "Laptop requirement",
-          "start_time": null,
-          "end_time": null,
           "topics": [
             "Please bring your laptop with Python and necessary packages installed.",
             "Ensure you have Wi-Fi access for hands-on exercises."
