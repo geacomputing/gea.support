@@ -78,20 +78,6 @@
           ]
         }
       ],
-      "links": [
-        {
-          "url": "https://github.com/geacomputing/UCY2Sept",
-          "name": "Course material",
-          "label": "Slides & datasets", 
-          "icon": "github"
-        },
-        {
-          "url": "https://www.linkedin.com/company/tethyscy/?originalSubdomain=cy",
-          "name": "Linkedin page",
-          "label": "More infos", 
-          "icon":"linkedin"
-        }
-      ],
       "important_remarks": [
         {
           "id": 1,
@@ -120,6 +106,20 @@
         "visualization",
         "netcdf",
         "xarray"
+      ], 
+      "links": [
+        {
+          "url": "https://github.com/geacomputing/UCY2Sept",
+          "name": "Course material",
+          "label": "Slides & datasets", 
+          "icon": "github"
+        },
+        {
+          "url": "https://www.linkedin.com/company/tethyscy/?originalSubdomain=cy",
+          "name": "Linkedin page",
+          "label": "More infos", 
+          "icon":"linkedin"
+        }
       ]
     }
   ]
