@@ -92,6 +92,13 @@
         }
       ],
 
+      "important_remarks": [
+        {
+          "id": 1,
+          "description": "Please bring your laptop with Python and necessary packages installed."
+        }
+      ],
+
       "certificate": false,
       "price_eur": false,
 
