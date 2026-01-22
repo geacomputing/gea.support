@@ -2,11 +2,11 @@
   "events": [
     {
       "id": 1,
-       "title": "Introduction to Climate Data & NetCDF Format",
-  "subtitle": "TETHYS Summer School 2025 – Climate, Energy & Sustainability (University of Cyprus)",
-  "duration_hours": 6,
+      "title": "Introduction to Climate Data & NetCDF Format",
+      "subtitle": "TETHYS Summer School 2025 – Climate, Energy & Sustainability (University of Cyprus)",
+      "duration_hours": 6,
 
-  "content": [
+      "content": [
         {
           "id": 1,
           "description": "Overview of climate data sources and typical workflows used in climate and energy research."
@@ -76,6 +76,19 @@
             "Best practices for publication",
             "Discussion and Q&A"
           ]
+        }
+      ],
+
+      "links": [
+        {
+          "url": "https://example.com/course-material",
+          "name": "Course material",
+          "label": "Slides & datasets"
+        },
+        {
+          "url": "https://example.com/registration",
+          "name": "Registration page",
+          "label": "Register here"
         }
       ],
 
